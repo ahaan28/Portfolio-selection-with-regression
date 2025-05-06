@@ -1,0 +1,2 @@
+This project optimizes portfolio selection using forward selection by regression, analyzing historical stock data from Yahoo Finance to build predictive models. It employs robust data preprocessing, feature scaling, and regression techniques, evaluating models with metrics like MSE and MAE. Ethical considerations, visualizations, and diversified stock selection ensure reliable, transparent investment insights.
+
